@@ -43,7 +43,7 @@ function padStartDigit(digit) {
         </div> : <TimerView time={time} setTimer={timerFunction} />
     );
 
-    return setViewTimer;
+    return setViewTimer; 
 }
 
 
