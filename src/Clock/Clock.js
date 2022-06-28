@@ -57,4 +57,4 @@ export function Clock() {
       <span>{padStartDigit(date.getSeconds())}</span>
     </div>
   );
-}
+} 
